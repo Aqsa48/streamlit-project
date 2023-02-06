@@ -47,6 +47,7 @@ with tab1:
    
     st.header("**Exploratory Data Analysis (EDA) – Credit Card Fraud Detection Case Study**")
     st.subheader("Overview")
+    st.subheader("Overview")
     
     st.markdown('''In this case study, the focus is on Exploratory Data Analysis for credit card fraud detection.
             The goal is to gain insights from the data to help detect fraudulent activities and ultimately improve business growth.
